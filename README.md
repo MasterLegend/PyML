@@ -1,2 +1,4 @@
 # PyML_2
-2021.12.13-12.17 Python and Machine Learning Course
+
+Here is the Jupyter file for the 2nd Python and Machine Learning course
+Course data: 2021.12.13-2021.12.17
