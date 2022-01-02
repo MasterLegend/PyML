@@ -1,4 +1,5 @@
-# PyML_2
+# Python与机器学习课程代码库
 
-Here is the Jupyter file for the 2nd Python and Machine Learning course
-Course data: 2021.12.13-2021.12.17
+可按相应期数与时间寻找到对应的课程代码文件
+第01期：2021.11.01-2021.11.05
+第02期：2021.12.13-2021.12.17
